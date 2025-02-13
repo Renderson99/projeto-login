@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
-    bady,html {
+    body {
         background-image: linear-gradient(to top, rgb(1, 133, 56), rgb(90, 1, 150));
     }
    section#login {
@@ -19,7 +19,7 @@
 }
 
 @media screen and (min-width: 992px) {
-    bady,html {
+    body {
         background-image: linear-gradient(to top, rgb(1, 133, 56), rgb(90, 1, 150));
     }
     section#login {
